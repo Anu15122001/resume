@@ -1,0 +1,14 @@
+h3
+{
+background-color: rgb(114, 114, 124);
+}
+.header{  
+        font-family: 'avenir next';
+    color: black;
+text-align: start;
+border: 5px solid rgb(128, 8, 128);
+margin:50px;
+text-align:left;
+padding-top: 25px;
+        
+}
